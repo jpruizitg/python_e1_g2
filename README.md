@@ -1,4 +1,4 @@
-# Python Essentials 1 - ITG - Grupo 2
+# Python Essentials 1 - ITG - G2
 
 Bienvenido al Curso de Python Essentials 1.
 En este repositorio encontrarás material adicional, de apoyo en tu aprendizaje de este lenguaje de programación.
