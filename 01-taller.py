@@ -1,0 +1,10 @@
+print('Ejercicio 4')
+print("Estoy","\"aprendiendo\"","\"\"\"Python\"\"\"", sep="\n")
+print()
+print('Hola', 'mundo', 'python', sep='-')
+
+print('Ejercicio 7')
+print(*"Omar", sep=" ", end="!")
+print()
+print('L','u','i','s', sep=" ", end="?")
+print()
